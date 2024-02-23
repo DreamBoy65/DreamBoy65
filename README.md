@@ -31,9 +31,9 @@ Welcome to my magical realm on GitHub! As an enthusiast in the art of programmin
 - [Waifu Discord](https://github.com/DreamBoy65/waifu)
 
 ## 🌟 Connect with Dream
-- [Dream's Enchanted Library (LinkedIn)](https://www.linkedin.com/in/dark-ab57b7283?utm_source=share&utm_campaign=share_via&utm_content=profile)
+- [Dream's Enchanted Library (Discord)](https://dsc.gg/dreamyluck)
 - [Instagram](https://instagram.com/dream.keir)
-- [Discord](https://dsc.gg/dreamyluck)
+- [Discord](https://www.linkedin.com/in/dark-ab57b7283?utm_source=share&utm_campaign=share_via&utm_content=profile)
 
 Embark on this magical journey with me, where the code comes alive, and stories unfold! ✨
 
