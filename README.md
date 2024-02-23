@@ -22,6 +22,11 @@ Welcome to my magical realm on GitHub! As an enthusiast in the art of programmin
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-lightblue?logo=tailwind-css&logoColor=white)
 - ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white)
 - ![React.js](https://img.shields.io/badge/-React.js-blue?logo=react&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/-Express.js-grey?logo=express&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
+- ![REST API](https://img.shields.io/badge/-REST_API-green)
+- ![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel&logoColor=white)
+
 
 ## 💀 Things im currently working on
 - ![Rust](https://img.shields.io/badge/-Rust-orange?logo=rust&logoColor=white) 
