@@ -8,7 +8,8 @@ Welcome to my magical realm on GitHub! As an enthusiast in the art of programmin
 - 🎨 Interested in art/designing (I design my my websites, cool right)
 
 ## 🚀 GitHub Sorcery (you can say that)
-![Dream's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dreamboy65&show_icons=true&hide=contribs,prs&theme=radical)
+[![Dream's Git status](https://github-readme-stats.vercel.app/api?username=DreamBoy65&show_icons=true&include_all_commits=true&theme=radical&count_private=true&hide_border=true&line_height=25&border_radius=25)](https://github.com/DreamBoy65?tab=repositories) 
+[![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamBoy65&theme=radical&hide_border=true&line_height=25&border_radius=25)](https://github.com/DreamBoy65?tab=repositories)
 
 ## 🧙‍♂️ Technologies & Tools
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) 
